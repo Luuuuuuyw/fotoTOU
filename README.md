@@ -10,7 +10,7 @@
 
 初版条款会发QQ群公告以及上传群文件 当然github也有
 
-## github条款文件的修订规则
+## github中"条款.md"的修订规则
 1. 请*commit changes* 然后*pull request* **这样可以保存每次修改的版本**
 2. **千万不要**直接commit to master branch 谢谢
 3. 是个人都能参与修订 猫也可以
