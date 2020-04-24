@@ -14,4 +14,5 @@
 1. 请*commit changes* 然后*pull request* **这样可以保存每次修改的版本**
 2. **千万不要**直接commit to master branch 谢谢
 3. 是个人都能参与修订 猫也可以
+4. 历史版本都在*Pull requests* 中
 <!-- 以上只能由管理员修改喵 -->
