@@ -11,7 +11,7 @@
 初版条款会发QQ群公告以及上传群文件 当然github也有
 
 ## [条款.md](条款.md)的修订规则 (github通用规则）
-1. 请*commit changes* 然后*pull request* **这样可以保存每次修改的版本**
+1. 请*commit changes* 然后*pull request* **虽然无论什么样的commit都会保存旧版本但是为了方便查看建议还是pull**
 2. **千万不要**直接commit to master branch 谢谢
 3. 是个人都能参与修订 猫也可以
 4. 历史版本都在*Pull requests* 中
